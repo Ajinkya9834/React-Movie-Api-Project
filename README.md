@@ -6,7 +6,6 @@ A modern movie browsing web application built using React that allows users to e
 
 ## 🚀 Features
 
-- 🔍 Search movies in real-time  
 - 🎥 View movie details (overview, rating, release date)  
 - ▶ Watch trailers (YouTube integration)  
 - 📊 Movie facts (budget, revenue, language, etc.)  
