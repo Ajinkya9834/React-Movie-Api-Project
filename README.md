@@ -1,6 +1,6 @@
 # 🎬 Movie App (React + TMDB API)
 
-A modern movie browsing web application built using React that allows users to explore trending movies, search for titles, and view detailed movie information including cast, trailers, and more.
+A modern movie browsing web application built using React that allows users to explore trending movies, search for titles, and view detailed movie information including cast, trailers.
 
 ---
 
