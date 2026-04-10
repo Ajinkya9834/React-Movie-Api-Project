@@ -33,4 +33,6 @@ A modern movie browsing web application built using React that allows users to e
 
 ## 📸 Screenshots
 
-![Home](./public/mobile-view-home.png)
+![Mobiel Home](./public/mobile-view-home.png)
+
+![Mobile Single movie page](public/mobile-view-single-page.png)
